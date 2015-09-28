@@ -1,6 +1,8 @@
-# 快速集成可拉伸头部图片的UITableView(TableViewHeaderStretching)
+# TableViewHeaderStretching
 
-## 测试环境：Xcode 7.0，iOS 7.0 以上
+###快速集成可拉伸头部图片的UITableView
+
+### 测试环境：Xcode 7.0，iOS 7.0 以上
 
 ### 集成步骤：
 ######0、将HeaderStretchingTableViewController文件夹拽入自己的项目中
